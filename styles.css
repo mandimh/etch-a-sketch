@@ -1,0 +1,35 @@
+h1 {
+    font-family: 'Warnes', cursive;
+    font-size: 3em;
+    text-align: center;
+}
+
+#container {
+    margin: auto;
+    width: 500px;
+    height: 500px;
+    border: 70px red solid;
+    border-radius: 25px;
+    border-top-width: 50px;
+    display: grid;
+}
+
+div .square {
+    background: #ddd;
+}
+
+div .black {
+    background: #333;
+}
+
+#inputs {
+    text-align: center;
+}
+
+#inputs button,
+#inputs select {
+    margin: 5px;
+    height: 40px;
+    font-size: 14px;
+    background:
+}
